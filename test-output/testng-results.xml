@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-18T14:51:33 JST" name="Suite" finished-at="2026-06-18T14:51:33 JST" duration-ms="39">
+    <groups>
+      <group name="smoke">
+        <method signature="TC01_DemoTest.movie1test()[pri:0, instance:Demo.TC01_DemoTest@37afeb11]" name="movie1test" class="Demo.TC01_DemoTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-06-18T14:51:33 JST" name="Test" finished-at="2026-06-18T14:51:33 JST" duration-ms="39">
+      <class name="Demo.TC01_DemoTest">
+        <test-method signature="movie1test()[pri:0, instance:Demo.TC01_DemoTest@37afeb11]" started-at="2026-06-18T14:51:33 JST" name="movie1test" finished-at="2026-06-18T14:51:33 JST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- movie1test -->
+      </class> <!-- Demo.TC01_DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
