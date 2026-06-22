@@ -7,6 +7,7 @@ public class TC01_DemoTest
 	@Test (groups = "smoke")
 	public void movie1test() 
 	{
-		System.out.println("Swapped");
+		System.out.println("Movie Name --> Swapped");
+		System.out.println("Movie Name --> Cocktail2");
 	}
 }
